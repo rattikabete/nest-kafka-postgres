@@ -24,21 +24,28 @@ User B creates a project and user A will subscribe his project.
 ## How to test
 
 Unfortunately, postman doesn't support WebSocket or subscription queries. so tested using GraphQL playground
-- Create user: <a target = "_blank">https://github.com/mariocasila/nest-microservice-kafka-postgres/tree/main/images/create_user.png </a>
-- Login: <a target = "_blank">https://github.com/mariocasila/nest-microservice-kafka-postgres/tree/main/images/login.png</a>
-- Subscribe new project: <a target = "_blank"> https://github.com/mariocasila/nest-microservice-kafka-postgres/tree/main/subscribe_project_creation.png </a>
-- Create new project: <a target = "_blank"> https://github.com/mariocasila/nest-microservice-kafka-postgres/tree/main/images/login.png </a>
-- Check subscription : <a target = "_blank"> https://github.com/mariocasila/nest-microservice-kafka-postgres/tree/main/images/subscribe_project.png </a>
-- Check kafka communication: <a target = "_blank"> https://github.com/mariocasila/nest-microservice-kafka-postgres/tree/main/images/kafka_drop.png </a>
-- Table User - <a target = "_blank"> https://github.com/mariocasila/nest-microservice-kafka-postgres/tree/main/images/db_user.png </a>
-- Table Project - <a target = "_blank"> https://github.com/mariocasila/nest-microservice-kafka-postgres/tree/main/images/db_project.png </a>
-
+- Create user 
+    <img src = './images/create_user.png'>
+- Login
+    <img src = './images/login.png'>
+- Subscribe new project
+    <img src = './images/subscribe_project_creation.png'>
+- Create new project
+    <img src = './images/create_project.png'>
+- Check subscription
+    <img src = './images/subscribe_project.png'>
+- Check kafka communication
+    <img src = './images/kafka_drop.png'>
+- Table User
+    <img src = './images/db_user.png'>
+- Table Project
+    <img src = './images/db_project.png'>
 
 ## Support
 
 ## Stay in touch
 
-- Author - [Mario Casila]
-- Email - maria.casila.94@gmail.com
+- Author - [Yong Yi Wong]
+- Email - yongyiwang.fullstack@gmail.com
 
 ## License
