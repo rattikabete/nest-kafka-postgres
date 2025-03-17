@@ -34,11 +34,3 @@ Unfortunately, postman doesn't support WebSocket or subscription queries. so tes
 - Table Project - <a target = "_blank"> https://github.com/mariocasila/nest-microservice-kafka-postgres/tree/main/images/db_project.png </a>
 
 
-## Support
-
-## Stay in touch
-
-- Author - [Mario Casila]
-- Email - maria.casila.94@gmail.com
-
-## License
