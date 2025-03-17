@@ -41,11 +41,4 @@ Unfortunately, postman doesn't support WebSocket or subscription queries. so tes
 - Table Project
     <img src = './images/db_project.png'>
 
-## Support
 
-## Stay in touch
-
-- Author - [Yong Yi Wong]
-- Email - yongyiwang.fullstack@gmail.com
-
-## License
